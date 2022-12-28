@@ -1,0 +1,46 @@
+@media screen and (max-width: 600px) {
+  p {
+    text-align: justify;
+    padding-left: 7%;
+    padding-right: 7%;
+    /*font-family: "Open Sans Condensed", sans-serif;*/
+    font-size: 18px;
+    line-height: 1.8;
+  }
+}
+
+@media screen and (min-width: 601px) {
+  p {
+    text-align: justify;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media screen and (min-width: 768px) {
+  p {
+    text-align: justify;
+  }
+}
+
+.image-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mainBgColor {
+  background-color: #3ab6bc;
+}
+.mainColor {
+  color: #3ab6bc;
+}
+
+div.hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 0;
+  border-top: 1px solid #eee;
+  text-align: center;
+  height: 0px;
+  line-height: 0px;
+}

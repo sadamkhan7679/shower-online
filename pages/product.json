@@ -1,0 +1,90 @@
+[
+	{
+		"id": "1",
+		"name": "Douchebankje in Corian White",
+		"price": "195.00",
+		"image": "/images/webshop/webshop-1.webp",
+		"urlpath": "douchebankje",
+		"category": ["webshop"]
+	},
+	{
+		"id": "2",
+		"name": "Schoonmaakdoekjes",
+		"price": "3.20",
+		"image": "/images/webshop/webshop-2.webp",
+		"urlpath": "schoonmaakdoekjes",
+		"category": ["webshop"]
+	},
+	{
+		"id": "3",
+		"name": "Afstrijkplaatjes Soudal",
+		"price": "3.25",
+		"image": "/images/webshop/webshop-3.webp",
+		"urlpath": "afstrijkplaatjes",
+		"category": ["webshop"]
+	},
+	{
+		"id": "4",
+		"name": "SOL Polymeer kit",
+		"price": "14.00",
+		"image": "/images/webshop/webshop-4.webp",
+		"urlpath": "solpolymeer",
+		"category": ["webshop"]
+	},
+	{
+		"id": "5",
+		"name": "SOL Haarzeef inzetstuk",
+		"price": "18.00",
+		"image": "/images/webshop/webshop-5.webp",
+		"urlpath": "solhaarzeef",
+		"category": ["webshop"]
+	},
+	{
+		"id": "6",
+		"name": "Stop profiel",
+		"price": "12.00",
+		"image": "/images/webshop/webshop-6-img-1.webp",
+		"urlpath": "stopprofiel",
+		"category": ["webshop"]
+	},
+	{
+		"id": "7",
+		"name": "Eén wand opstelling",
+		"price": "420.00",
+		"image": "/images/webshop/webshop-7.webp",
+		"urlpath": "eenwandopstelling",
+		"category": ["webshop", "douchewand"]
+	},
+	{
+		"id": "8",
+		"name": "Hoekopstelling SOL wanden",
+		"price": "875.00",
+		"image": "/images/webshop/webshop-8.webp",
+		"urlpath": "hoekopstelling",
+		"category": ["webshop", "douchewand"]
+	},
+	{
+		"id": "9",
+		"name": "Nisopstelling",
+		"price": "1310.00",
+		"image": "/images/webshop/webshop-9.webp",
+		"urlpath": "nisopstelling",
+		"category": ["webshop", "douchewand"]
+	},
+	{
+		"id": "10",
+		"name": "S.O.L vlakke sifon",
+		"price": "58.00",
+		"image": "/images/webshop/webshop-10-img-1.webp",
+		"urlpath": "solvlakkesifon",
+		"category": ["webshop"]
+	},
+	{
+		"id": "11",
+		"name": "Set van 4 regelbare S.O.L montagevoeten",
+		"price": "60.00",
+		"image": "/images/webshop/webshop-11-img-1.webp",
+		"urlpath": "solmontagevoeten",
+		"category": ["webshop"]
+	}
+]

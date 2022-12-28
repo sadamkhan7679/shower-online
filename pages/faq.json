@@ -1,0 +1,32 @@
+[
+	{
+		"id": "faq1",
+		"title": "Zijn jullie platen makkelijk in onderhoud?",
+		"urlimage1": "/images/faq/faq1.webp"
+	},
+	{
+		"id": "faq2",
+		"title": "Kan ik direct verlijmen op een OSB of multiplex plaat?",
+		"text": "Met de S.O.L wanden en douchebakken kan u perfect op een houten wand of vloer verlijmen. We raden wel aan om een extra profiel te plaatsen achter de platen. Op deze manier zijn de hoeverbindingen 100% waterdicht. Door het plaatsen van inox binnenhoeken achter de wanden zijn S.O.L platen 100% waterdicht.",
+		"urlimage1": "/images/faq/faq2-1.webp",
+		"urlimage2": "/images/faq/faq2-2.webp"
+	},
+	{
+		"id": "faq3",
+		"title": "Waar kan ik de handleiding voor een inloopdouche vinden?",
+		"text": "Zie onderaan deze pagina: handleiding."
+	},
+	{
+		"id": "faq4",
+		"title": "Hoeveel poten per m² plaatsen onder een douchebak?",
+		"text": "Wij raden aan om per M2 douchebak 4 regelbare poten te plaatsen. BV : Een douchebak van 120cm x 80cm zijn dit 6x regelbare poten. De regelbare poten van S.O.L zijn perfect regelbaar van 6cm tot 12cm. De douchepoten kunnen best vast geboord worden op de ondervloer zodat deze zeker niet verschuiven tijdens het plaatsen en regelen. Plaats ook een muurlat, dat zal de installatie vereenvoudigen en een stabiel geheel geven.",
+		"urlimage1": "/images/faq/faq4-1.webp",
+		"urlimage2": "/images/faq/faq4-2.png"
+	},
+	{
+		"id": "faq5",
+		"title": "Kunnen er andere vormen gemaakt worden van een doucheplaat?",
+		"text": "Ja, iedere vorm is mogelijk. BV: een Vijfhoek. Daarvoor moet er wel een mal worden gemaakt door ons service team. Hier voor kan u best een mail sturen via het contact formulier.",
+		"urlimage1": "/images/faq/faq5.webp"
+	}
+]

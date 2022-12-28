@@ -1,0 +1,7 @@
+node_modules
+.next
+out
+sendgrid.env
+prod.env
+dev.env
+.DS_Store
